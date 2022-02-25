@@ -1,5 +1,5 @@
 title = "iogism vault"
-baseURL = "https://iogism.github.io"
+baseURL = "https://iogism.github.io/mysite"
 tags = ["portfolio", "art", "blog", "NFT"]
 languageCode = "en-US"
 config = "config.toml"
