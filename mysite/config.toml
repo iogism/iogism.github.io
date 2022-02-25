@@ -1,5 +1,5 @@
 title = "iogism vault"
-baseURL = "https://iogism.github.io/mysite"
+baseURL = "/"
 tags = ["portfolio", "art", "blog", "NFT"]
 languageCode = "en-US"
 config = "config.toml"
@@ -66,4 +66,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   weight = 4
   name = "Contact"
   url  = "/#contact"
+  weight = 4
+l  = "/#contact"
   weight = 4
