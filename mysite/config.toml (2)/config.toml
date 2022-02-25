@@ -1,18 +1,18 @@
-title = "iogism vault"
-baseURL = "https://iogism.github.io"
-tags = ["portfolio", "art", "blog", "NFT"]
+title = "Osprey Example Site"
+baseURL = "https://tomanistor.com"
+tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
 googleAnalytics = ""
-disqusShortname = ""
+disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-  tagline = "All Works Created"
-  author = "Robin"
-  description = "All of my creations relating to IOGISM."
+  tagline = "Osprey Example Site"
+  author = "Toma Nistor"
+  description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
   logoBig = "/images/osprey-logo.png"
   logoSmall = "/images/osprey-logo.png"
   favicon = "favicon.ico"
@@ -61,9 +61,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   url  = "/#blog"
   weight = 3
 [[menu.main]]
-  name = "Contact"
-  url  = "/#contact"
-  weight = 4
   name = "Contact"
   url  = "/#contact"
   weight = 4
